@@ -4,9 +4,4 @@ Let's try out a second edit.
 
 3 is to test auto open
 4 for multiline commit message
-5 new line
-<<<<<<< HEAD
-may want to consider Venus as a base
-6 new edit
-=======
->>>>>>> parent of 766b35f (note decision to consider venus; started venus notes)
+
